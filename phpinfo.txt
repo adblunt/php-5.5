@@ -1,4 +1,4 @@
-PHP 5.5.16 (cli) (built: Sep  9 2014 14:27:03) 
+PHP 5.5.17 (cli) (built: Sep 21 2014 03:34:28) 
 Copyright (c) 1997-2014 The PHP Group
 Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies
     with XCache v4.0.0-dev, Copyright (c) 2005-2013, by mOo
@@ -11,141 +11,141 @@ Zend Engine v2.5.0, Copyright (c) 1998-2014 Zend Technologies
  Volume in drive C is Windows7_OS
  Volume Serial Number is A6DB-07E9
 
- Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.16
+ Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.17
 
-09/09/14  14:39            49.152 php-cgi.exe
-09/09/14  14:39            27.648 php-win.exe
-09/09/14  14:39            64.512 php.exe
+21/09/14  03:57            49.152 php-cgi.exe
+21/09/14  03:57            27.648 php-win.exe
+21/09/14  03:57            64.512 php.exe
                3 File(s)        141.312 bytes
 
      Total Files Listed:
                3 File(s)        141.312 bytes
-               0 Dir(s)  22.636.515.328 bytes free
+               0 Dir(s)  14.885.064.704 bytes free
  Volume in drive C is Windows7_OS
  Volume Serial Number is A6DB-07E9
 
- Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.16
+ Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.17
 
-09/09/14  14:39            25.600 php5apache2_2.dll
-09/09/14  14:39            23.552 php5apache2_2_filter.dll
-09/09/14  14:39            26.112 php5apache2_4.dll
-09/09/14  14:39         6.875.648 php5ts.dll
-               4 File(s)      6.950.912 bytes
+21/09/14  03:57            25.600 php5apache2_2.dll
+21/09/14  03:57            23.552 php5apache2_2_filter.dll
+21/09/14  03:57            26.112 php5apache2_4.dll
+21/09/14  03:57         6.876.672 php5ts.dll
+               4 File(s)      6.951.936 bytes
 
- Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.16\ext
+ Directory of C:\php-sdk\php55dev\Release_TS\php-5.5.17\ext
 
-09/09/14  14:39            63.488 php_apcu.dll
-09/09/14  14:39            39.936 php_av.dll
-09/09/14  14:39            19.456 php_blenc.dll
-09/09/14  14:39            65.536 php_bz2.dll
-09/09/14  14:39            70.656 php_com_dotnet.dll
-09/09/14  14:39           119.296 php_couchbase.dll
-09/09/14  14:39           449.024 php_couchdb.dll
-09/09/14  14:39            46.592 php_crypto.dll
-09/09/14  14:39           468.480 php_curl.dll
-09/09/14  14:39           387.584 php_dba.dll
-09/09/14  14:39            24.064 php_dbase.dll
-09/09/14  14:39            19.456 php_dio.dll
-09/09/14  14:39            58.880 php_discount.dll
-09/09/14  14:39            17.920 php_doublemetaphone.dll
-09/09/14  14:39            17.920 php_enchant.dll
-09/09/14  14:39           245.248 php_event.dll
-09/09/14  14:39            88.064 php_excel.dll
-09/09/14  14:39            44.032 php_exif.dll
-09/09/14  14:39            32.256 php_ffmpeg.dll
-09/09/14  14:39         2.693.120 php_fileinfo.dll
-09/09/14  14:39            94.720 php_fribidi.dll
-09/09/14  14:39         1.614.848 php_gd2.dll
-09/09/14  14:39         5.866.496 php_gender.dll
-09/09/14  14:39           238.080 php_geoip.dll
-09/09/14  14:39            40.448 php_gettext.dll
-09/09/14  14:39           239.104 php_gmp.dll
-09/09/14  14:39           797.696 php_haru.dll
-09/09/14  14:39            12.800 php_hrtime.dll
-09/09/14  14:39            13.824 php_htscanner.dll
-09/09/14  14:39           814.080 php_http.dll
-09/09/14  14:39           742.912 php_http1.dll
-09/09/14  14:39            91.648 php_igbinary.dll
-09/09/14  14:39           214.016 php_imagick.dll
-09/09/14  14:39           816.640 php_imap.dll
-09/09/14  14:39            65.024 php_interbase.dll
-09/09/14  14:39           285.696 php_intl.dll
-09/09/14  14:39            12.288 php_jsmin.dll
-09/09/14  14:39            54.784 php_jsonc.dll
-09/09/14  14:39            34.304 php_jsond.dll
-09/09/14  14:39           212.480 php_judy.dll
-09/09/14  14:39           172.544 php_ldap.dll
-09/09/14  14:39            12.288 php_lzf.dll
-09/09/14  14:39            40.960 php_mailparse.dll
-09/09/14  14:39         1.274.880 php_mbstring.dll
-09/09/14  14:39            44.032 php_mdbtools.dll
-09/09/14  14:39            44.544 php_memcache.dll
-09/09/14  14:39           274.432 php_mongo.dll
-09/09/14  14:39            82.432 php_msgpack.dll
-09/09/14  14:39            35.840 php_mysql.dll
-09/09/14  14:39            93.184 php_mysqli.dll
-09/09/14  14:39            93.184 php_mysqlnd_qc.dll
-09/09/14  14:39           475.136 php_oauth.dll
-09/09/14  14:39           119.808 php_oci8.dll
-09/09/14  14:39           120.832 php_oci8_11g.dll
-09/09/14  14:39           121.856 php_oci8_12c.dll
-09/09/14  14:39           120.320 php_opcache.dll
-09/09/14  14:39            77.312 php_openssl.dll
-09/09/14  14:39            17.920 php_pcsc.dll
-09/09/14  14:39           133.120 php_pdflib.dll
-09/09/14  14:39            21.504 php_pdo_firebird.dll
-09/09/14  14:39            24.064 php_pdo_mysql.dll
-09/09/14  14:39            23.040 php_pdo_oci.dll
-09/09/14  14:39            19.968 php_pdo_odbc.dll
-09/09/14  14:39            27.648 php_pdo_pgsql.dll
-09/09/14  14:39           643.584 php_pdo_sqlite.dll
-09/09/14  14:39           169.472 php_pdo_sqlsrv.dll
-09/09/14  14:39            89.088 php_pgsql.dll
-09/09/14  14:39            16.384 php_pop3.dll
-09/09/14  14:39            35.328 php_printer.dll
-09/09/14  14:39            15.360 php_propro.dll
-09/09/14  14:39            17.408 php_pspell.dll
-09/09/14  14:39            66.048 php_pthreads.dll
-09/09/14  14:39         1.220.608 php_qb.dll
-09/09/14  14:39            35.328 php_radius.dll
-09/09/14  14:39            18.432 php_raphf.dll
-09/09/14  14:39           198.144 php_rar.dll
-09/09/14  14:39           172.032 php_redis.dll
-09/09/14  14:39            40.448 php_rsync.dll
-09/09/14  14:39            11.776 php_shmop.dll
-09/09/14  14:39            12.288 php_smtp.dll
-09/09/14  14:39           358.400 php_snmp.dll
-09/09/14  14:39           258.048 php_soap.dll
-09/09/14  14:39            63.488 php_sockets.dll
-09/09/14  14:39           552.448 php_solr.dll
-09/09/14  14:39           655.360 php_sqlite3.dll
-09/09/14  14:39           186.368 php_sqlsrv.dll
-09/09/14  14:39           147.968 php_ssh2.dll
-09/09/14  14:39           139.264 php_stats.dll
-09/09/14  14:39            34.304 php_stomp.dll
-09/09/14  14:39            51.200 php_svn.dll
-09/09/14  14:39            31.232 php_sybase_ct.dll
-09/09/14  14:39            15.872 php_sync.dll
-09/09/14  14:39           232.448 php_tidy.dll
-09/09/14  14:39           287.232 php_timezonedb.dll
-09/09/14  14:39           576.000 php_translit.dll
-09/09/14  14:39            12.288 php_uploadprogress.dll
-09/09/14  14:39            23.040 php_uprofiler.dll
-09/09/14  14:39            25.600 php_varnish.dll
-09/09/14  14:39            14.848 php_wfio.dll
-09/09/14  14:39            11.776 php_win32ps.dll
-09/09/14  14:39            21.504 php_win32service.dll
-09/09/14  14:39           365.056 php_xcache.dll
-09/09/14  14:39           164.352 php_xdebug.dll
-09/09/14  14:39            83.456 php_xmldiff.dll
-09/09/14  14:39            64.512 php_xmlrpc.dll
-09/09/14  14:39           227.328 php_xsl.dll
-09/09/14  14:39           226.816 php_xslcache.dll
-             107 File(s)     28.295.680 bytes
+21/09/14  03:57            63.488 php_apcu.dll
+21/09/14  03:57            39.936 php_av.dll
+21/09/14  03:57            19.456 php_blenc.dll
+21/09/14  03:57            65.536 php_bz2.dll
+21/09/14  03:57            70.656 php_com_dotnet.dll
+21/09/14  03:57           119.296 php_couchbase.dll
+21/09/14  03:57           455.168 php_couchdb.dll
+21/09/14  03:57            46.592 php_crypto.dll
+21/09/14  03:57           475.136 php_curl.dll
+21/09/14  03:57           387.584 php_dba.dll
+21/09/14  03:57            24.064 php_dbase.dll
+21/09/14  03:57            19.456 php_dio.dll
+21/09/14  03:57            58.880 php_discount.dll
+21/09/14  03:57            17.920 php_doublemetaphone.dll
+21/09/14  03:57            17.920 php_enchant.dll
+21/09/14  03:57           245.248 php_event.dll
+21/09/14  03:57            88.064 php_excel.dll
+21/09/14  03:57            44.032 php_exif.dll
+21/09/14  03:57            32.256 php_ffmpeg.dll
+21/09/14  03:57         2.693.120 php_fileinfo.dll
+21/09/14  03:57            94.720 php_fribidi.dll
+21/09/14  03:57         1.614.848 php_gd2.dll
+21/09/14  03:57         5.866.496 php_gender.dll
+21/09/14  03:57           238.080 php_geoip.dll
+21/09/14  03:57            40.448 php_gettext.dll
+21/09/14  03:57           239.104 php_gmp.dll
+21/09/14  03:57           797.696 php_haru.dll
+21/09/14  03:57            12.800 php_hrtime.dll
+21/09/14  03:57            13.824 php_htscanner.dll
+21/09/14  03:57           820.736 php_http.dll
+21/09/14  03:57           749.568 php_http1.dll
+21/09/14  03:57            91.648 php_igbinary.dll
+21/09/14  03:57           214.016 php_imagick.dll
+21/09/14  03:57           816.640 php_imap.dll
+21/09/14  03:57            65.024 php_interbase.dll
+21/09/14  03:57           285.696 php_intl.dll
+21/09/14  03:57            12.288 php_jsmin.dll
+21/09/14  03:57            54.784 php_jsonc.dll
+21/09/14  03:57            34.304 php_jsond.dll
+21/09/14  03:57           212.480 php_judy.dll
+21/09/14  03:57           172.544 php_ldap.dll
+21/09/14  03:57            12.288 php_lzf.dll
+21/09/14  03:57            40.960 php_mailparse.dll
+21/09/14  03:57         1.274.880 php_mbstring.dll
+21/09/14  03:57            44.032 php_mdbtools.dll
+21/09/14  03:57            44.544 php_memcache.dll
+21/09/14  03:57           274.432 php_mongo.dll
+21/09/14  03:57            82.432 php_msgpack.dll
+21/09/14  03:57            35.840 php_mysql.dll
+21/09/14  03:57            93.184 php_mysqli.dll
+21/09/14  03:57            93.184 php_mysqlnd_qc.dll
+21/09/14  03:57           480.768 php_oauth.dll
+21/09/14  03:57           119.808 php_oci8.dll
+21/09/14  03:57           120.832 php_oci8_11g.dll
+21/09/14  03:57           121.856 php_oci8_12c.dll
+21/09/14  03:57           120.320 php_opcache.dll
+21/09/14  03:57            77.824 php_openssl.dll
+21/09/14  03:57            17.920 php_pcsc.dll
+21/09/14  03:57           133.120 php_pdflib.dll
+21/09/14  03:57            21.504 php_pdo_firebird.dll
+21/09/14  03:57            24.064 php_pdo_mysql.dll
+21/09/14  03:57            23.040 php_pdo_oci.dll
+21/09/14  03:57            19.968 php_pdo_odbc.dll
+21/09/14  03:57            27.648 php_pdo_pgsql.dll
+21/09/14  03:57           643.584 php_pdo_sqlite.dll
+21/09/14  03:57           169.472 php_pdo_sqlsrv.dll
+21/09/14  03:57            89.088 php_pgsql.dll
+21/09/14  03:57            16.384 php_pop3.dll
+21/09/14  03:57            35.328 php_printer.dll
+21/09/14  03:57            15.360 php_propro.dll
+21/09/14  03:57            17.408 php_pspell.dll
+21/09/14  03:57            71.680 php_pthreads.dll
+21/09/14  03:57         1.220.608 php_qb.dll
+21/09/14  03:57            35.328 php_radius.dll
+21/09/14  03:57            18.432 php_raphf.dll
+21/09/14  03:57           198.144 php_rar.dll
+21/09/14  03:57           172.032 php_redis.dll
+21/09/14  03:57            40.448 php_rsync.dll
+21/09/14  03:57            11.776 php_shmop.dll
+21/09/14  03:57            12.288 php_smtp.dll
+21/09/14  03:57           358.400 php_snmp.dll
+21/09/14  03:57           258.048 php_soap.dll
+21/09/14  03:57            63.488 php_sockets.dll
+21/09/14  03:57           558.592 php_solr.dll
+21/09/14  03:57           655.360 php_sqlite3.dll
+21/09/14  03:57           186.368 php_sqlsrv.dll
+21/09/14  03:57           147.968 php_ssh2.dll
+21/09/14  03:57           139.264 php_stats.dll
+21/09/14  03:57            34.304 php_stomp.dll
+21/09/14  03:57            51.200 php_svn.dll
+21/09/14  03:57            31.232 php_sybase_ct.dll
+21/09/14  03:57            15.872 php_sync.dll
+21/09/14  03:57           232.448 php_tidy.dll
+21/09/14  03:57           287.232 php_timezonedb.dll
+21/09/14  03:57           576.000 php_translit.dll
+21/09/14  03:57            12.288 php_uploadprogress.dll
+21/09/14  03:57            23.040 php_uprofiler.dll
+21/09/14  03:57            25.600 php_varnish.dll
+21/09/14  03:57            14.848 php_wfio.dll
+21/09/14  03:57            11.776 php_win32ps.dll
+21/09/14  03:57            21.504 php_win32service.dll
+21/09/14  03:57           365.056 php_xcache.dll
+21/09/14  03:57           164.352 php_xdebug.dll
+21/09/14  03:57            83.456 php_xmldiff.dll
+21/09/14  03:57            64.512 php_xmlrpc.dll
+21/09/14  03:57           227.328 php_xsl.dll
+21/09/14  03:57           226.816 php_xslcache.dll
+             107 File(s)     28.339.712 bytes
 
      Total Files Listed:
-             111 File(s)     35.246.592 bytes
-               0 Dir(s)  22.636.511.232 bytes free
+             111 File(s)     35.291.648 bytes
+               0 Dir(s)  14.884.995.072 bytes free
 [PHP Modules]
 apc
 apcu
@@ -296,17 +296,17 @@ Xdebug
 Zend OPcache
 
 phpinfo()
-PHP Version => 5.5.16
+PHP Version => 5.5.17
 
 System => Windows NT X220 6.1 build 7601 (Windows 7 Business Edition Service Pack 1) i586
-Build Date => Sep  9 2014 14:25:24
+Build Date => Sep 21 2014 03:31:34
 Compiler => MSVC11 (Visual C++ 2012)
 Architecture => x86
 Configure Command => cscript /nologo configure.js  "--enable-debug-pack" "--enable-embed" "--enable-cli-win32" "--enable-apache2-2handler" "--enable-apache2-2filter" "--enable-apache2-4handler" "--with-mysql=shared" "--with-mysqli=shared" "--enable-mysqlnd-qc=shared" "--disable-mysqlnd-qc-apc" "--disable-mysqlnd-qc-sqlite" "--enable-pdo" "--with-pdo-mysql=shared" "--with-pgsql=shared" "--with-pdo-pgsql=shared" "--with-mcrypt=static" "--with-openssl=shared" "--with-crypto=shared" "--enable-blenc=shared" "--enable-phar-native-ssl" "--enable-sockets=shared" "--enable-intl=shared" "--with-wfio=shared" "--enable-mbstring=shared" "--enable-mbregex" "--enable-translit=shared" "--enable-exif=shared" "--with-xmlrpc=shared" "--with-xmldiff=shared" "--with-xsl=shared" "--with-xslcache=shared" "--enable-solr=shared" "--enable-solr-debug" "--with-curl=shared" "--enable-stomp=shared" "--with-tidy=shared" "--enable-jsmin=shared" "--with-bz2=shared" "--enable-lzf=shared" "--enable-rar=shared" "--enable-fileinfo=shared" "--with-gettext=shared" "--with-mhash" "--with-ldap=shared" "--with-radius=shared" "--enable-redis=shared" "--enable-igbinary=shared" "--enable-redis-igbinary" "--enable-com-dotnet=shared" "--enable-soap=shared" "--enable-shmop=shared" "--enable-sync=shared" "--with-gmp=shared" "--with-interbase=shared" "--with-pdo-firebird=shared" "--with-sqlite3=shared" "--with-pdo-sqlite=shared" "--with-pdo-odbc=shared" "--enable-sqlsrv=shared" "--with-pdo-sqlsrv=shared" "--with-dba=shared" "--enable-dbase=shared" "--with-mdbtools=shared" "--enable-stats=shared" "--with-judy=shared" "--enable-gender=shared" "--with-pdo-oci=C:\php-sdk\oracle\instantclient10\sdk,shared" "--with-oci8=C:\php-sdk\oracle\instantclient10\sdk,shared" "--with-oci8-11g=C:\php-sdk\oracle\instantclient11\sdk,shared" "--with-oci8-12c=C:\php-sdk\oracle\instantclient12\sdk,shared" "--with-sybase-ct=shared" "--enable-couchdb=shared" "--with-couchbase=shared" "--enable-mongo=shared" "--with-mongo-sasl" "--with-imap=shared" "--enable-mailparse=shared" "--enable-pop3=shared" "--with-smtp=shared" "--with-oauth=shared" "--with-pcsc=shared" "--with-ssh2=shared" "--with-snmp=shared" "--enable-msgpack=shared" "--enable-uploadprogress=shared" "--enable-htscanner=shared" "--enable-http1=shared" "--enable-http=shared" "--enable-propro=shared" "--enable-raphf=shared" "--with-imagick=shared" "--enable-discount=shared" "--enable-uprofiler=shared" "--with-pdflib=shared" "--with-haru=shared" "--enable-jsond=shared" "--with-jsonc=shared" "--enable-qb=shared" "--with-excel=shared" "--with-enchant=shared" "--with-fribidi=shared" "--with-pspell=shared" "--with-doublemetaphone=shared" "--enable-printer=shared" "--with-event=shared" "--enable-dio=shared" "--with-geoip=shared" "--enable-timezonedb=shared" "--enable-hrtime=shared" "--with-svn=shared" "--with-rsync=shared" "--with-xdebug=shared" "--with-pthreads=shared" "--enable-win32ps=shared" "--enable-win32service=shared" "--enable-memcache=shared" "--enable-apcu=shared" "--enable-apcu-debug" "--enable-opcache=shared" "--enable-xcache=shared" "--enable-xcache-optimizer" "--enable-xcache-coverager" "--enable-varnish=shared" "--enable-ffmpeg=shared" "--with-av=shared" "--disable-static-analyze"
 Server API => Command Line Interface
 Virtual Directory Support => enabled
 Configuration File (php.ini) Path => C:\Windows
-Loaded Configuration File => C:\php-sdk\php55dev\Release_TS\php-5.5.16\php.ini
+Loaded Configuration File => C:\php-sdk\php55dev\Release_TS\php-5.5.17\php.ini
 Scan this dir for additional .ini files => (none)
 Additional .ini files parsed => (none)
 PHP API => 20121113
@@ -354,7 +354,7 @@ APCu Debugging => Disabled
 MMAP Support => Disabled
 Serialization Support => Disabled
 Revision => $Revision: 328290 $
-Build Date => Sep  9 2014 14:27:19
+Build Date => Sep 21 2014 03:34:53
 
 Directive => Local Value => Master Value
 apc.coredump_unmap => Off => Off
@@ -805,7 +805,7 @@ com.typelib_file => no value => no value
 
 Core
 
-PHP Version => 5.5.16
+PHP Version => 5.5.17
 
 Directive => Local Value => Master Value
 allow_url_fopen => On => On
@@ -936,13 +936,13 @@ ctype functions => enabled
 curl
 
 cURL support => enabled
-cURL Information => 7.37.1
+cURL Information => 7.38.0
 Age => 3
 Features
 AsynchDNS => Yes
 CharConv => No
 Debug => No
-GSS-Negotiate => Yes
+GSS-Negotiate => No
 IDN => Yes
 IPv6 => Yes
 krb4 => No
@@ -963,7 +963,7 @@ date
 
 date/time support => enabled
 "Olson" Timezone Database Version => 2014.7
-Timezone Database => external
+Timezone Database => internal
 Default timezone => Europe/Amsterdam
 
 Directive => Local Value => Master Value
@@ -1052,7 +1052,7 @@ exif.encode_unicode => ISO-8859-15 => ISO-8859-15
 ffmpeg
 
 ffmpeg-php version => 0.7.16
-ffmpeg-php built on => Sep  9 2014 14:28:37
+ffmpeg-php built on => Sep 21 2014 03:37:10
 ffmpeg-php gd support  => enabled
 ffmpeg libavcodec version => Lavc52.123.0
 ffmpeg libavformat version => Lavf52.111.0
@@ -1168,7 +1168,7 @@ Extension Version => 2.1.0RC3
 
 Used Library => Compiled => Linked
 libz => 1.2.8 => 1.2.8
-libcurl => 7.37.1 => 7.37.1
+libcurl => 7.38.0 => 7.38.0
 libevent => 2.1.4-alpha-dev => 2.1.4-alpha-dev
 
 Directive => Local Value => Master Value
@@ -1872,7 +1872,7 @@ PSpell Support => enabled
 
 pthreads
 
-Version => 2.0.8
+Version => 2.0.9
 
 qb
 
@@ -1883,18 +1883,18 @@ CPU count => 4
 CPU architecture => x86
 SSE version => 2
                                Diagnostics                               
-Integer addition throughput => 110 million operations per second
-Integer multiplication throughput => 108 million operations per second
-Integer division throughput => 88 million operations per second
-Integer multiply-accumulate throughput => 99 million operations per second
-Floating point addition throughput => 111 million operations per second
-Floating point multiplication throughput => 104 million operations per second
-Floating point division throughput => 102 million operations per second
-Floating point multiply-accumulate throughput => 101 million operations per second
-Vector addition throughput => 74 million operations per second
-Vector multiplication throughput => 68 million operations per second
-Vector division throughput => 55 million operations per second
-Vector multiply-accumulate throughput => 62 million operations per second
+Integer addition throughput => 70 million operations per second
+Integer multiplication throughput => 71 million operations per second
+Integer division throughput => 54 million operations per second
+Integer multiply-accumulate throughput => 70 million operations per second
+Floating point addition throughput => 65 million operations per second
+Floating point multiplication throughput => 67 million operations per second
+Floating point division throughput => 62 million operations per second
+Floating point multiply-accumulate throughput => 60 million operations per second
+Vector addition throughput => 44 million operations per second
+Vector multiplication throughput => 51 million operations per second
+Vector division throughput => 38 million operations per second
+Vector multiply-accumulate throughput => 34 million operations per second
 
 Directive => Local Value => Master Value
 qb.allow_bytecode_interpretation => On => On
@@ -2041,8 +2041,8 @@ solr
 
 Solr Extension Version => 2.0.0
 Solr Extension Revision Id => $Revision$
-Last Build Date => Sep  9 2014
-Last Build Time => 14:39:04
+Last Build Date => Sep 21 2014
+Last Build Time => 03:55:53
 SolrObject => enabled
 SolrDocument => enabled
 SolrDocumentField => enabled
@@ -2136,7 +2136,7 @@ stomp.default_username => no value => no value
 svn
 
 svn support => enabled
-svn client version => 1.8.9
+svn client version => 1.8.10
 svn extension version => 1.0.3-dev
 
 sybase_ct
@@ -2146,7 +2146,7 @@ Active Persistent Links => 0
 Active Links => 0
 Min server severity => 10
 Min client severity => 10
-Application Name => PHP 5.5.16
+Application Name => PHP 5.5.17
 Deadlock retry count => 0
 
 Directive => Local Value => Master Value
@@ -2204,10 +2204,10 @@ uprofiler => 0.11.0
 CPU num => 4
 process bound to CPU => 0
 CPU logical id =>  Clock Rate (MHz) 
- CPU 0  => 69
- CPU 1  => 2459
- CPU 2  => 2496
- CPU 3  => 2479
+ CPU 0  => 2465
+ CPU 1  => 2861
+ CPU 2  => 2092
+ CPU 3  => 2489
 
 varnish
 
@@ -2250,9 +2250,9 @@ XCache Cacher
 
 XCache Cacher Module => enabled
 Readonly Protection => disabled
-Page Request Time => 2014-09-09 14:42:33
-Cache Init Time => 2014-09-09 14:42:33
-Cache Instance Id => 6040.5360
+Page Request Time => 2014-09-21 04:02:15
+Cache Init Time => 2014-09-21 04:02:15
+Cache Instance Id => 3540.2800
 Opcode Cache => disabled
 Variable Cache => enabled, 4,194,304 bytes, 1 split(s), with 8192 slots each
 Shared Memory Schemes => mmap
@@ -2501,8 +2501,8 @@ _SERVER["SCRIPT_NAME"] => phpinfo.php
 _SERVER["SCRIPT_FILENAME"] => phpinfo.php
 _SERVER["PATH_TRANSLATED"] => phpinfo.php
 _SERVER["DOCUMENT_ROOT"] => 
-_SERVER["REQUEST_TIME_FLOAT"] => 1410266553.9294
-_SERVER["REQUEST_TIME"] => 1410266553
+_SERVER["REQUEST_TIME_FLOAT"] => 1411264935.8325
+_SERVER["REQUEST_TIME"] => 1411264935
 _SERVER["argv"] => Array
 (
     [0] => phpinfo.php
